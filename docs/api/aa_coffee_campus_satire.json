@@ -1,0 +1,3264 @@
+{
+  "date": "02-18-2026",
+  "data": [
+    {
+      "shop": {
+        "name": "Parking Ticket Pourhouse (Ann Arbor East)",
+        "neighborhood": "League",
+        "specialty": "printer-fueled optimism"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.59
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.11
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.55
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.52
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 7.37
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.2,
+          "visit": {
+            "time": "20:33",
+            "wait_minutes": 15
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 2.9,
+          "visit": {
+            "time": "19:3",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.9,
+          "visit": {
+            "time": "8:41",
+            "wait_minutes": 15
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:0",
+          "close": "18:30"
+        },
+        "baristas": 10,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Thesis & Beans",
+        "neighborhood": "Diag",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 12.52
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 8.53
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 6,
+            "price": 9.21
+          },
+          "boost": {
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "rating": 4.9,
+          "visit": {
+            "time": "22:55",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.9,
+          "visit": {
+            "time": "23:22",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.2,
+          "visit": {
+            "time": "16:07",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "9:48",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.4,
+          "visit": {
+            "time": "11:41",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.1,
+          "visit": {
+            "time": "12:22"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:0",
+          "close": "17:5"
+        },
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Thesis & Beans",
+        "neighborhood": "Diag",
+        "specialty": "printer-fueled optimism"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.83
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.57
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 9.75
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 19.55
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.92
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.73
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "rating": 3.2,
+          "visit": {
+            "time": "7:00",
+            "wait_minutes": 19
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.7,
+          "visit": {
+            "time": "15:48"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:5",
+          "close": "19:30"
+        },
+        "baristas": 3,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Canvas Crash Cafe",
+        "neighborhood": "Diag"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.11
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 23.58
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 9.24
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 24.54
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 5,
+            "price": 8.45
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 9.46
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "rating": 3.3,
+          "visit": {
+            "time": "7:18",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.4,
+          "visit": {
+            "time": "19:07"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:15"
+        },
+        "baristas": 6,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Thesis & Beans",
+        "neighborhood": "North Campus",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 10,
+            "price": 6.63
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 12.45
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 11.89
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 7.68
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.27
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 17.36
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 9.08
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.2,
+          "visit": {
+            "time": "18:48"
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.1,
+          "visit": {
+            "time": "12:00"
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.5,
+          "visit": {
+            "time": "6:41",
+            "wait_minutes": 19
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.7,
+          "visit": {
+            "time": "12:3",
+            "wait_minutes": 8
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:0",
+          "close": "17:30"
+        },
+        "baristas": 4,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Office Hours Oasis (Ann Arbor East)",
+        "neighborhood": "North Campus",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 9.03
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.61
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 7.14
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.77
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 4.5,
+          "visit": {
+            "time": "14:12"
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 2.9,
+          "visit": {
+            "time": "9:33"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 5.0,
+          "visit": {
+            "time": "22:48",
+            "wait_minutes": 4
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:5",
+          "close": "18:0"
+        },
+        "baristas": 8,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Syllabus Steamerhouse",
+        "neighborhood": "South U",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.47
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 10.32
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 12.4
+          },
+          "boost": {
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 24.48
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.26
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.7
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.81
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 4.5,
+          "visit": {
+            "time": "14:0"
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.9,
+          "visit": {
+            "time": "20:27",
+            "wait_minutes": 15
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 3.4,
+          "visit": {
+            "time": "21:33",
+            "wait_minutes": 19
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:15",
+          "close": "20:0"
+        },
+        "baristas": 4,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "The Rubric Roastery (Annex)",
+        "neighborhood": "State Street",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 6.78
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 7.31
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 2,
+            "price": 8.05
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.0
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "library_lurker",
+          "rating": 4.3,
+          "visit": {
+            "time": "18:22",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.5,
+          "visit": {
+            "time": "19:18",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.6,
+          "visit": {
+            "time": "6:18",
+            "wait_minutes": 7
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:0",
+          "close": "19:5"
+        },
+        "baristas": 8,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Parking Ticket Pourhouse (Ann Arbor North)",
+        "neighborhood": "Diag",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 8.06
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 6.44
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.01
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.33
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 9.84
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 4.8,
+          "visit": {
+            "time": "23:48",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.8,
+          "visit": {
+            "time": "16:0",
+            "wait_minutes": 0
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:30",
+          "close": "21:30"
+        },
+        "baristas": 9,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Thesis & Beans",
+        "neighborhood": "League",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.27
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.37
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 9.9
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 4.5,
+          "visit": {
+            "time": "18:00"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "11:05",
+            "wait_minutes": 25
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:0",
+          "close": "17:15"
+        },
+        "baristas": 8,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Thesis & Beans",
+        "neighborhood": "Diag",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 17.09
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 13.16
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 10.27
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.36
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 11.12
+          },
+          "boost": {
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.9
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 9.03
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "library_lurker",
+          "rating": 3.3,
+          "visit": {
+            "time": "9:22",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 2.9,
+          "visit": {
+            "time": "14:00",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.4,
+          "visit": {
+            "time": "19:27",
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.7,
+          "visit": {
+            "time": "16:33",
+            "wait_minutes": 3
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.7,
+          "visit": {
+            "time": "8:41",
+            "wait_minutes": 3
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:5",
+          "close": "20:15"
+        },
+        "baristas": 2,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Panic at the Espresso",
+        "neighborhood": "State Street"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.48
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 12,
+            "price": 19.99
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 24.68
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 9.1
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 3.9,
+          "visit": {
+            "time": "20:7",
+            "wait_minutes": 20
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.7,
+          "visit": {
+            "time": "8:18",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 5.0,
+          "visit": {
+            "time": "7:7"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:5",
+          "close": "19:5"
+        },
+        "baristas": 2,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Canvas Crash Cafe",
+        "neighborhood": "South U",
+        "specialty": "printer-fueled optimism"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 9.48
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 22.31
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 11.52
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.72
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 9.46
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 3.2,
+          "visit": {
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.3,
+          "visit": {
+            "time": "9:55",
+            "wait_minutes": 9
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.6,
+          "visit": {
+            "time": "14:12",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 3.6,
+          "visit": {
+            "time": "21:5",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.0,
+          "visit": {
+            "time": "21:48",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.9,
+          "visit": {
+            "time": "23:55",
+            "wait_minutes": 27
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:5",
+          "close": "17:30"
+        },
+        "baristas": 5,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Midterm Miracles",
+        "neighborhood": "State Street",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 22.55
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 6.2
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.24
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 0,
+            "price": 7.65
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 7.99
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "rating": 2.8,
+          "visit": {
+            "time": "18:03",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.5,
+          "visit": {
+            "time": "9:7",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.5,
+          "visit": {
+            "time": "23:27",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.4,
+          "visit": {
+            "time": "14:5",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.6,
+          "visit": {
+            "time": "13:05"
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.2,
+          "visit": {
+            "time": "9:27",
+            "wait_minutes": 8
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:15",
+          "close": "19:5"
+        },
+        "baristas": 6,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Midterm Miracles",
+        "neighborhood": "South U",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.5
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 9.82
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 9.69
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 4.3,
+          "visit": {
+            "time": "6:48",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.8,
+          "visit": {
+            "time": "12:27",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.6,
+          "visit": {
+            "time": "13:55",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 3.4,
+          "visit": {
+            "time": "16:05",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.2,
+          "visit": {
+            "time": "15:0",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.6,
+          "visit": {
+            "time": "14:0"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:5",
+          "close": "19:15"
+        },
+        "baristas": 5,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Canvas Crash Cafe",
+        "neighborhood": "South U",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 10.88
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 11.6
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 13.7
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 12.18
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "coffeegrad",
+          "rating": 3.5,
+          "visit": {
+            "time": "17:48",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.3,
+          "visit": {
+            "time": "22:00",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.0,
+          "visit": {
+            "time": "10:18",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.5,
+          "visit": {
+            "time": "21:55",
+            "wait_minutes": 22
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:30",
+          "close": "19:0"
+        },
+        "baristas": 4,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Parking Ticket Pourhouse",
+        "neighborhood": "League",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 6.71
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 11.21
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 7.84
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 9.68
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 10.46
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 3.7,
+          "visit": {
+            "time": "20:48",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 2.9,
+          "visit": {
+            "time": "12:3"
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.0,
+          "visit": {
+            "time": "11:41"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 2.9,
+          "visit": {
+            "time": "13:33",
+            "wait_minutes": 1
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:5",
+          "close": "16:0"
+        },
+        "baristas": 7,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "The Rubric Roastery",
+        "neighborhood": "Diag",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 24.51
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 24.94
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 9.58
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 19.4
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 23.97
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 9.61
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "existential clarity"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "rating": 3.7,
+          "visit": {
+            "time": "8:07"
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.8,
+          "visit": {
+            "time": "18:27",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.3,
+          "visit": {
+            "time": "12:55",
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.7,
+          "visit": {
+            "time": "8:48",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.2,
+          "visit": {
+            "time": "7:48",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.9,
+          "visit": {
+            "time": "15:18",
+            "wait_minutes": 18
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:15",
+          "close": "16:5"
+        },
+        "baristas": 4,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Canvas Crash Cafe",
+        "neighborhood": "South U"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 22.39
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 10.44
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.07
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 8.6
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.72
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 10.3
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "rating": 3.1,
+          "visit": {
+            "time": "14:18",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.9,
+          "visit": {
+            "time": "13:41",
+            "wait_minutes": 5
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.7,
+          "visit": {
+            "time": "15:5",
+            "wait_minutes": 15
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:0",
+          "close": "18:5"
+        },
+        "baristas": 3,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Panic at the Espresso",
+        "neighborhood": "League",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 19.96
+          },
+          "boost": {
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 8.26
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.33
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 8.17
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 4.9,
+          "visit": {
+            "time": "21:3",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.7,
+          "visit": {
+            "time": "7:33",
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.2,
+          "visit": {
+            "time": "12:27",
+            "wait_minutes": 9
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.4,
+          "visit": {
+            "time": "16:48",
+            "wait_minutes": 3
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.9,
+          "visit": {
+            "time": "23:41",
+            "wait_minutes": 16
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:30",
+          "close": "17:5"
+        },
+        "baristas": 6,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Midterm Miracles",
+        "neighborhood": "League",
+        "specialty": "deadline refills"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 8.54
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 22.78
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.81
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 8.08
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 19.24
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 10.78
+          },
+          "boost": {
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 8.07
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "visit": {
+            "time": "19:12",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.7,
+          "visit": {
+            "time": "10:12",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.6,
+          "visit": {
+            "time": "11:48",
+            "wait_minutes": 20
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:30",
+          "close": "18:30"
+        },
+        "baristas": 2,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "The Rubric Roastery (Annex)",
+        "neighborhood": "Diag",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 13.43
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.92
+          },
+          "boost": {
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 22.42
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 21.28
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 3.9,
+          "visit": {
+            "time": "22:05",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 2.8,
+          "visit": {
+            "time": "12:33",
+            "wait_minutes": 20
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.8,
+          "visit": {
+            "time": "13:0",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.3,
+          "visit": {
+            "time": "17:48",
+            "wait_minutes": 15
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.2,
+          "visit": {
+            "time": "12:0",
+            "wait_minutes": 4
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:30",
+          "close": "19:30"
+        },
+        "baristas": 8,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Thesis & Beans (Annex)",
+        "neighborhood": "State Street",
+        "specialty": "printer-fueled optimism"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 1,
+            "price": 11.08
+          },
+          "boost": {
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 5.66
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 21.78
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.13
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.81
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "rating": 4.8,
+          "visit": {
+            "time": "13:18",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.5,
+          "visit": {
+            "time": "11:07",
+            "wait_minutes": 1
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:15",
+          "close": "19:15"
+        },
+        "baristas": 6,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "The Rubric Roastery (Ann Arbor East)",
+        "neighborhood": "South U",
+        "specialty": "printer-fueled optimism"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 11.99
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 9.68
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 21.55
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 10.29
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.75
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "visit": {
+            "time": "15:07",
+            "wait_minutes": 1
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.0,
+          "visit": {
+            "time": "13:55",
+            "wait_minutes": 20
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.0,
+          "visit": {
+            "time": "9:41",
+            "wait_minutes": 22
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:5",
+          "close": "17:5"
+        },
+        "baristas": 5,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Canvas Crash Cafe (Annex)",
+        "neighborhood": "Diag",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.07
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 24.5
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 10.16
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "kerrytown_kid",
+          "visit": {
+            "time": "22:12",
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.3,
+          "visit": {
+            "time": "13:0",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.7,
+          "visit": {
+            "time": "15:27",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.3,
+          "visit": {
+            "time": "13:41",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 3.6,
+          "visit": {
+            "time": "7:55",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.2,
+          "visit": {
+            "time": "18:55",
+            "wait_minutes": 23
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:5",
+          "close": "19:5"
+        },
+        "baristas": 8,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Canvas Crash Cafe",
+        "neighborhood": "Diag",
+        "specialty": "deadline refills"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 19.51
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 6.53
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 8.02
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.49
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.74
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 9.68
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 6.7
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 3.6,
+          "visit": {
+            "time": "16:3",
+            "wait_minutes": 12
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.7,
+          "visit": {
+            "time": "18:48"
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.8,
+          "visit": {
+            "time": "22:55"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:15",
+          "close": "15:5"
+        },
+        "baristas": 2,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "The Over-Caffeinated Wolverine",
+        "neighborhood": "State Street",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.22
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 10.06
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 6.71
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 8.86
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.07
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 7.82
+          },
+          "boost": {
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 11.34
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "focus"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.1,
+          "visit": {
+            "time": "18:12"
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.7,
+          "visit": {
+            "time": "15:22",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 3.0,
+          "visit": {
+            "time": "16:7",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "8:03",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.8,
+          "visit": {
+            "time": "7:07",
+            "wait_minutes": 5
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:5",
+          "close": "19:0"
+        },
+        "baristas": 5,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Thesis & Beans (Annex)",
+        "neighborhood": "State Street",
+        "specialty": "group projects"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 5.67
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 9.62
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 8.23
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 5.69
+          },
+          "boost": {
+            "caffeine_mg": 180,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 13.17
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 10,
+            "price": 7.62
+          },
+          "boost": {
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 2,
+            "price": 7.1
+          },
+          "boost": {
+            "side_effects": "spontaneous office-hours"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "rating": 4.1,
+          "visit": {
+            "time": "7:22",
+            "wait_minutes": 9
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.9,
+          "visit": {
+            "time": "23:33",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.3,
+          "visit": {
+            "time": "16:33",
+            "wait_minutes": 5
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.4,
+          "visit": {
+            "time": "21:48",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 5.0,
+          "visit": {
+            "time": "12:27",
+            "wait_minutes": 20
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.8,
+          "visit": {
+            "time": "13:07",
+            "wait_minutes": 12
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:15",
+          "close": "21:0"
+        },
+        "baristas": 5,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": true
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Panic at the Espresso",
+        "neighborhood": "League",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 14,
+            "price": 7.71
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 10.1
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Parking Ticket Piccolo",
+            "size_oz": 3,
+            "price": 9.68
+          },
+          "boost": {
+            "caffeine_mg": 220,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 12,
+            "price": 6.27
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Syllabus Steamer",
+            "size_oz": 10,
+            "price": 6.32
+          },
+          "boost": {
+            "caffeine_mg": 350,
+            "side_effects": "focus"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 21.75
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 3.0,
+          "visit": {
+            "time": "20:55",
+            "wait_minutes": 21
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.4,
+          "visit": {
+            "time": "17:27",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.3,
+          "visit": {
+            "time": "16:18",
+            "wait_minutes": 24
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:5",
+          "close": "17:15"
+        },
+        "baristas": 3,
+        "policy": {
+          "wifi_password_changes_hourly": false,
+          "finals_week_surge": false
+        }
+      }
+    },
+    {
+      "shop": {
+        "name": "Midterm Miracles",
+        "neighborhood": "State Street",
+        "specialty": "exam-week drinks"
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 10.35
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "speed-reading"
+          }
+        },
+        {
+          "drink": {
+            "name": "Midterm Macchiato",
+            "size_oz": 4,
+            "price": 7.41
+          },
+          "boost": {
+            "caffeine_mg": 300,
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "NFT Nitro",
+            "size_oz": 14,
+            "price": 17.41
+          },
+          "boost": {
+            "side_effects": "existential clarity"
+          }
+        },
+        {
+          "drink": {
+            "name": "Quantum Cortado",
+            "size_oz": 6,
+            "price": 12.09
+          },
+          "boost": {
+            "caffeine_mg": 420,
+            "side_effects": "spontaneous office-hours"
+          }
+        },
+        {
+          "drink": {
+            "name": "Existential Espresso",
+            "size_oz": 0,
+            "price": 7.58
+          },
+          "boost": {
+            "side_effects": "speed-reading"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "rating": 4.0,
+          "visit": {
+            "time": "21:00",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.1,
+          "visit": {
+            "time": "16:55",
+            "wait_minutes": 20
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.2,
+          "visit": {
+            "time": "17:41",
+            "wait_minutes": 21
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:30",
+          "close": "19:15"
+        },
+        "baristas": 4,
+        "policy": {
+          "wifi_password_changes_hourly": true,
+          "finals_week_surge": true
+        }
+      }
+    }
+  ]
+}
