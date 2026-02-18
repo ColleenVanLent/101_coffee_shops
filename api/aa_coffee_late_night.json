@@ -1,0 +1,3593 @@
+{
+  "date": "11-10-2026",
+  "data": [
+    {
+      "shop": {
+        "name": "Pierpont PM Pour",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 20,
+          "outlets": 80
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 10,
+            "price": 5.12
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.04
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.82
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.35
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 4.0,
+          "visit": {
+            "time": "19:7",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.7,
+          "visit": {
+            "time": "22:55",
+            "wait_minutes": 22
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:10",
+          "close": "3:30"
+        },
+        "baristas": 3,
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Shapiro After Dark",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 11,
+          "outlets": 17
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.33
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.57
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.88
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.24
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 14,
+            "price": 5.88
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.9
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "rating": 4.8,
+          "visit": {
+            "time": "9:0",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.9,
+          "visit": {
+            "time": "9:07",
+            "wait_minutes": 20
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.9,
+          "visit": {
+            "time": "21:03",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "library_lurker",
+          "visit": {
+            "time": "16:03",
+            "wait_minutes": 5
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.9,
+          "visit": {
+            "time": "15:03",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.5,
+          "visit": {
+            "time": "19:12",
+            "wait_minutes": 4
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "17:10",
+          "close": "4:15"
+        },
+        "baristas": 4,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 19,
+          "outlets": 71
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.69
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.95
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.26
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "rating": 4.7,
+          "visit": {
+            "time": "16:12",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 3.7,
+          "visit": {
+            "time": "12:00"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "20:30",
+          "close": "2:10"
+        },
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 6,
+          "outlets": 25
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.57
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.87
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.08
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 14,
+            "price": 6.26
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.88
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.36
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.49
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "coffeegrad",
+          "rating": 3.6,
+          "visit": {
+            "time": "13:18",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.8,
+          "visit": {
+            "time": "13:05",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.1,
+          "visit": {
+            "time": "16:22",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.3,
+          "visit": {
+            "time": "17:41",
+            "wait_minutes": 5
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:15",
+          "close": "2:5"
+        },
+        "baristas": 10,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Hatcher Night Owl",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 40,
+          "outlets": 29
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.26
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.64
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.22
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 6,
+            "price": 4.07
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 6.01
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 6.44
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 4.7,
+          "visit": {
+            "time": "6:55"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.8,
+          "visit": {
+            "time": "12:33",
+            "wait_minutes": 1
+          }
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "10:41",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.8,
+          "visit": {
+            "time": "9:03",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 5.0,
+          "visit": {
+            "time": "14:41"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "21:0"
+        },
+        "baristas": 2,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug #9",
+        "neighborhood": "North Campus",
+        "study_spaces": {
+          "tables": 36,
+          "outlets": 77
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 12,
+            "price": 4.03
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.84
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 3.84
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "rating": 4.5,
+          "visit": {
+            "time": "21:0",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 3.5,
+          "visit": {
+            "time": "13:05",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.7,
+          "visit": {
+            "time": "16:05",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.2,
+          "visit": {
+            "time": "19:18",
+            "wait_minutes": 26
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "21:15",
+          "close": "3:5"
+        },
+        "baristas": 5,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 39,
+          "outlets": 73
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.63
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.72
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.04
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.83
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.08
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.37
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.69
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 4.9,
+          "visit": {
+            "time": "11:33"
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.9,
+          "visit": {
+            "time": "12:27"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.3,
+          "visit": {
+            "time": "13:33",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 3.9,
+          "visit": {
+            "time": "7:48",
+            "wait_minutes": 14
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "17:15",
+          "close": "4:5"
+        },
+        "baristas": 6,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "silent"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado #2",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 6,
+          "outlets": 19
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 8
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.51
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 4.88
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 3.6,
+          "visit": {
+            "time": "17:03",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.7,
+          "visit": {
+            "time": "8:07",
+            "wait_minutes": 5
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "22:5",
+          "close": "1:30"
+        },
+        "baristas": 8,
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Hatcher Night Owl #5",
+        "neighborhood": "North Campus",
+        "study_spaces": {
+          "tables": 10,
+          "outlets": 11
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.64
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 14,
+            "price": 4.47
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.22
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.96
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "indie"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 4.6,
+          "visit": {
+            "time": "19:3",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 5.0,
+          "visit": {
+            "time": "21:18",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.1,
+          "visit": {
+            "time": "11:55",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.0,
+          "visit": {
+            "time": "7:27",
+            "wait_minutes": 22
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "21:0",
+          "close": "0:15"
+        },
+        "baristas": 10,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "silent"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Pierpont PM Pour",
+        "neighborhood": "North Campus",
+        "study_spaces": {
+          "tables": 31,
+          "outlets": 46
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.41
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.42
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.83
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 5.22
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.27
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.39
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "rating": 4.9,
+          "visit": {
+            "time": "9:03",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.6,
+          "visit": {
+            "time": "14:22",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.8,
+          "visit": {
+            "time": "22:03",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.2,
+          "visit": {
+            "time": "20:48",
+            "wait_minutes": 9
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.7,
+          "visit": {
+            "time": "17:27"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:15",
+          "close": "3:10"
+        },
+        "baristas": 2,
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Shapiro After Dark",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 37,
+          "outlets": 14
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.36
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.43
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.5
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 0,
+            "price": 3.32
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.49
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.98
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 0,
+            "price": 3.19
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "rating": 4.0,
+          "visit": {
+            "time": "23:03",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.8,
+          "visit": {
+            "time": "17:07",
+            "wait_minutes": 5
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:5",
+          "close": "1:0"
+        },
+        "baristas": 7,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "silent"
+            }
+          },
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Pierpont PM Pour",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 22,
+          "outlets": 68
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.83
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 5.12
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.1
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "rating": 3.9,
+          "visit": {
+            "time": "21:41",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.8,
+          "visit": {
+            "time": "14:55",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.9,
+          "visit": {
+            "time": "15:55",
+            "wait_minutes": 11
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "21:0"
+        },
+        "baristas": 4,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 31,
+          "outlets": 76
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.31
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.19
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.8
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 4.0,
+          "visit": {
+            "time": "8:22",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "10:48"
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.6,
+          "visit": {
+            "time": "20:22",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 3.5,
+          "visit": {
+            "time": "18:03",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 3.9,
+          "visit": {
+            "time": "17:22",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.9,
+          "visit": {
+            "time": "17:27",
+            "wait_minutes": 5
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "20:0",
+          "close": "1:10"
+        },
+        "baristas": 4,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 29,
+          "outlets": 48
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 14,
+            "price": 3.23
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.58
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.4
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 14,
+            "price": 5.2
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "rating": 3.5,
+          "visit": {
+            "time": "22:27",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.3,
+          "visit": {
+            "time": "11:22",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.9,
+          "visit": {
+            "time": "14:55",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.4,
+          "visit": {
+            "time": "17:48",
+            "wait_minutes": 15
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.3,
+          "visit": {
+            "time": "9:12",
+            "wait_minutes": 2
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "20:15",
+          "close": "2:30"
+        },
+        "baristas": 10,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "silent"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado #6",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 33,
+          "outlets": 76
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.14
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.18
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.49
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.63
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.99
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "visit": {
+            "time": "23:12"
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.7,
+          "visit": {
+            "time": "23:12",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.7,
+          "visit": {
+            "time": "14:22",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.0,
+          "visit": {
+            "time": "16:48",
+            "wait_minutes": 22
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "21:5",
+          "close": "1:15"
+        },
+        "baristas": 9,
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado #6",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 23,
+          "outlets": 26
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 6.44
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.76
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.23
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.79
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.61
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.1
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.08
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 3.5,
+          "visit": {
+            "time": "10:00",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.5,
+          "visit": {
+            "time": "6:27",
+            "wait_minutes": 4
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "17:30",
+          "close": "1:0"
+        },
+        "baristas": 3,
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 24,
+          "outlets": 78
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 5.18
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.79
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "rating": 4.5,
+          "visit": {
+            "time": "9:7",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.1,
+          "visit": {
+            "time": "8:55",
+            "wait_minutes": 8
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "21:0",
+          "close": "0:15"
+        },
+        "baristas": 9,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          },
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Pierpont PM Pour",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 31,
+          "outlets": 24
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 6,
+            "price": 5.02
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.22
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.22
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.3
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.87
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.32
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.83
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "umich_parent",
+          "rating": 4.8,
+          "visit": {
+            "time": "23:27",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.0,
+          "visit": {
+            "time": "21:22",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.4,
+          "visit": {
+            "time": "18:48"
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.5,
+          "visit": {
+            "time": "22:00",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.6,
+          "visit": {
+            "time": "18:41",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.7,
+          "visit": {
+            "time": "16:00"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:0",
+          "close": "4:30"
+        },
+        "baristas": 6,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 34,
+          "outlets": 77
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.91
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.78
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.77
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 6.49
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.97
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.97
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.3,
+          "visit": {
+            "time": "19:18",
+            "wait_minutes": 12
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.1,
+          "visit": {
+            "time": "21:3",
+            "wait_minutes": 9
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.0,
+          "visit": {
+            "time": "6:00",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.2,
+          "visit": {
+            "time": "19:7",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.4,
+          "visit": {
+            "time": "17:12",
+            "wait_minutes": 21
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "17:10",
+          "close": "3:5"
+        },
+        "baristas": 8,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "whisper"
+            }
+          },
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Pierpont PM Pour",
+        "neighborhood": "North Campus",
+        "study_spaces": {
+          "tables": 13,
+          "outlets": 21
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.29
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.8
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.77
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.64
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "coffeegrad",
+          "rating": 4.1,
+          "visit": {
+            "time": "17:12",
+            "wait_minutes": 21
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 3.4,
+          "visit": {
+            "time": "14:00",
+            "wait_minutes": 4
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "22:0",
+          "close": "1:30"
+        },
+        "baristas": 3,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          },
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 31,
+          "outlets": 76
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.45
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.49
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.71
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.5
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "lofi"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "rating": 3.9,
+          "visit": {
+            "time": "18:00"
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.4,
+          "visit": {
+            "time": "22:18",
+            "wait_minutes": 12
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.4,
+          "visit": {
+            "time": "16:03",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.4,
+          "visit": {
+            "time": "22:55",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.4,
+          "visit": {
+            "time": "8:00"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "19:10",
+          "close": "3:15"
+        },
+        "baristas": 3,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "silent"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 26,
+          "outlets": 62
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 6.04
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.21
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.87
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 10,
+            "price": 4.3
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.57
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.55
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 3.4,
+          "visit": {
+            "time": "10:12",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.7,
+          "visit": {
+            "time": "9:7",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.3,
+          "visit": {
+            "time": "23:07",
+            "wait_minutes": 21
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.4,
+          "visit": {
+            "time": "18:00",
+            "wait_minutes": 8
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "19:0",
+          "close": "3:0"
+        },
+        "baristas": 4,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "silent"
+            }
+          },
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Hatcher Night Owl #9",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 17,
+          "outlets": 50
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.36
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.59
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.02
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.17
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "rating": 4.9,
+          "visit": {
+            "time": "9:55"
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.5,
+          "visit": {
+            "time": "9:55",
+            "wait_minutes": 20
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.4,
+          "visit": {
+            "time": "16:03",
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.1,
+          "visit": {
+            "time": "18:12",
+            "wait_minutes": 19
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.6,
+          "visit": {
+            "time": "9:55",
+            "wait_minutes": 20
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "17:30",
+          "close": "4:10"
+        },
+        "baristas": 9,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The Diag Midnight Mug",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 16,
+          "outlets": 40
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.9
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 10,
+            "price": 4.59
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.14
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.52
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.37
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.83
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "coffeegrad",
+          "rating": 4.5,
+          "visit": {
+            "time": "9:48",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.0,
+          "visit": {
+            "time": "10:00",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.4,
+          "visit": {
+            "time": "14:22",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.4,
+          "visit": {
+            "time": "6:18",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.9,
+          "visit": {
+            "time": "21:18",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.3,
+          "visit": {
+            "time": "23:41",
+            "wait_minutes": 0
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "22:0",
+          "close": "3:0"
+        },
+        "baristas": 4,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "silent"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 14,
+          "outlets": 27
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 14,
+            "price": 5.01
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.73
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.0
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.15
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.72
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.8
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.8,
+          "visit": {
+            "time": "10:48"
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.0,
+          "visit": {
+            "time": "14:0",
+            "wait_minutes": 21
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.8,
+          "visit": {
+            "time": "11:55",
+            "wait_minutes": 13
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:10",
+          "close": "4:10"
+        },
+        "baristas": 4,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "silent"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Hatcher Night Owl",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 27,
+          "outlets": 10
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 18,
+            "price": 5.7
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.83
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.92
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.2,
+          "visit": {
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 3.9,
+          "visit": {
+            "time": "8:0",
+            "wait_minutes": 19
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.7,
+          "visit": {
+            "time": "17:07",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.9,
+          "visit": {
+            "time": "14:22",
+            "wait_minutes": 3
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:0",
+          "close": "2:10"
+        },
+        "baristas": 7,
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 17,
+          "outlets": 53
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.17
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.21
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.66
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "rating": 3.8,
+          "visit": {
+            "time": "18:03",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 3.6,
+          "visit": {
+            "time": "15:55",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.7,
+          "visit": {
+            "time": "10:03"
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.0,
+          "visit": {
+            "time": "18:48",
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.8,
+          "visit": {
+            "time": "19:27",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.0,
+          "visit": {
+            "time": "20:12",
+            "wait_minutes": 15
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "21:10"
+        },
+        "baristas": 2,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "The 2AM Cortado",
+        "neighborhood": "North Campus",
+        "study_spaces": {
+          "tables": 17,
+          "outlets": 14
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.18
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.94
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.85
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.9,
+          "visit": {
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.6,
+          "visit": {
+            "time": "20:22"
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.6,
+          "visit": {
+            "time": "13:05"
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.3,
+          "visit": {
+            "time": "11:07"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "17:30",
+          "close": "0:0"
+        },
+        "baristas": 5,
+        "quiet_zones": [
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "whisper"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "whisper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Shapiro After Dark",
+        "neighborhood": "Central Campus",
+        "study_spaces": {
+          "tables": 30,
+          "outlets": 66
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.68
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.2
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.04
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "indie"
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 10,
+            "price": 5.46
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.05
+          },
+          "notes": {
+            "vibe": "chaos",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.57
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "jazz"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.4,
+          "visit": {
+            "time": "20:27"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.2,
+          "visit": {
+            "time": "18:41",
+            "wait_minutes": 19
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.0,
+          "visit": {
+            "time": "21:00",
+            "wait_minutes": 1
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.3,
+          "visit": {
+            "time": "9:07"
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.7,
+          "visit": {
+            "time": "10:55",
+            "wait_minutes": 20
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "18:0",
+          "close": "3:0"
+        },
+        "baristas": 9,
+        "quiet_zones": [
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "upstairs nook",
+            "rules": {
+              "noise": "normal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "shop": {
+        "name": "Insomnia Espresso Bar",
+        "neighborhood": "Downtown",
+        "study_spaces": {
+          "tables": 23,
+          "outlets": 74
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.53
+          },
+          "notes": {
+            "vibe": "quiet",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.12
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "lofi"
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.41
+          },
+          "notes": {
+            "vibe": "whisper",
+            "music": "silence"
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.2
+          },
+          "notes": {
+            "vibe": "buzzing",
+            "music": "indie"
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 3.4,
+          "visit": {
+            "time": "22:22",
+            "wait_minutes": 15
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.0,
+          "visit": {
+            "time": "20:48"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "17:15",
+          "close": "2:5"
+        },
+        "baristas": 4,
+        "quiet_zones": [
+          {
+            "area": "window bar",
+            "rules": {
+              "noise": "normal"
+            }
+          },
+          {
+            "area": "back corner",
+            "rules": {
+              "noise": "silent"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

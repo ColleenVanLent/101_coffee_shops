@@ -1,0 +1,4832 @@
+{
+  "date": "2-3-2026",
+  "data": [
+    {
+      "shop": {
+        "name": "Local Loop Lattes Cooperative",
+        "neighborhood": "North Campus",
+        "ethical_rating": "GOLD",
+        "community": {
+          "workshops_per_month": 0,
+          "donations": {
+            "local_causes": 5
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 10,
+            "price": 5.44
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.16
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.15
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 4.5,
+          "visit": {
+            "time": "13:33",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.9,
+          "visit": {
+            "wait_minutes": 17
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:30",
+          "close": "15:0"
+        },
+        "composting": true,
+        "reusables_discount": 0.18
+      }
+    },
+    {
+      "shop": {
+        "name": "The Refillable Mug",
+        "neighborhood": "Old West Side",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 2,
+          "donations": {
+            "local_causes": 1
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.07
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.21
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.85
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.5
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.56
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.81
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 4.2,
+          "visit": {
+            "time": "23:33",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.8,
+          "visit": {
+            "time": "18:48",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.0,
+          "visit": {
+            "time": "6:22",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.8,
+          "visit": {
+            "time": "11:00",
+            "wait_minutes": 10
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.2,
+          "visit": {
+            "time": "18:12",
+            "wait_minutes": 17
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:0"
+        },
+        "composting": true,
+        "reusables_discount": 0.39
+      }
+    },
+    {
+      "shop": {
+        "name": "Fair Trade Fortress",
+        "neighborhood": "Downtown",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 8,
+          "donations": {
+            "local_causes": 0
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.32
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.63
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 6.08
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.79
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 5.3
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.26
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "rating": 4.7,
+          "visit": {
+            "time": "18:22",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.3,
+          "visit": {
+            "time": "17:18"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.1,
+          "visit": {
+            "time": "16:33",
+            "wait_minutes": 23
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:30",
+          "close": "19:5"
+        },
+        "composting": true,
+        "reusables_discount": 0.41
+      }
+    },
+    {
+      "shop": {
+        "name": "The Refillable Mug",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 5,
+          "donations": {
+            "local_causes": 5
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.98
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 10,
+            "price": 4.3
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.64
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.91
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.67
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.15
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 4.8,
+          "visit": {
+            "time": "15:03",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.8,
+          "visit": {
+            "time": "9:18",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.5,
+          "visit": {
+            "time": "17:0",
+            "wait_minutes": 0
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:15",
+          "close": "18:5"
+        },
+        "composting": false,
+        "reusables_discount": 0.26
+      }
+    },
+    {
+      "shop": {
+        "name": "Co-op Coffee Corner",
+        "neighborhood": "Downtown",
+        "ethical_rating": "PLATINUM",
+        "community": {
+          "workshops_per_month": 1,
+          "donations": {
+            "local_causes": 3
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 14,
+            "price": 5.39
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.13
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.2
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.22
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.72
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.73
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "library_lurker",
+          "rating": 4.1,
+          "visit": {
+            "time": "23:00",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "16:12",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.6,
+          "visit": {
+            "time": "14:07",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.7,
+          "visit": {
+            "time": "21:55",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.6,
+          "visit": {
+            "time": "14:07"
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.3,
+          "visit": {
+            "time": "15:12",
+            "wait_minutes": 25
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:0",
+          "close": "21:15"
+        },
+        "composting": false,
+        "reusables_discount": 0.06
+      }
+    },
+    {
+      "shop": {
+        "name": "Co-op Coffee Corner Cooperative",
+        "neighborhood": "North Campus",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 5,
+          "donations": {
+            "local_causes": 1
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.47
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 4.7
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.43
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 2.99
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.01
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "winter_commuter",
+          "visit": {
+            "time": "6:27",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.2,
+          "visit": {
+            "time": "6:05",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 3.4,
+          "visit": {
+            "time": "14:18"
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.3,
+          "visit": {
+            "time": "17:27",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.3,
+          "visit": {
+            "time": "15:41",
+            "wait_minutes": 3
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.2,
+          "visit": {
+            "time": "16:41"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:0",
+          "close": "18:15"
+        },
+        "composting": false,
+        "reusables_discount": 0.17
+      }
+    },
+    {
+      "shop": {
+        "name": "Fair Trade Fortress",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "PLATINUM",
+        "community": {
+          "workshops_per_month": 1,
+          "donations": {
+            "local_causes": 5
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.35
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.72
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.75
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 10,
+            "price": 4.98
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 6.16
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "mdenstudent",
+          "rating": 4.6,
+          "visit": {
+            "time": "23:12",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.3,
+          "visit": {
+            "time": "18:41",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.9,
+          "visit": {
+            "time": "13:27",
+            "wait_minutes": 5
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:0",
+          "close": "15:0"
+        },
+        "composting": true,
+        "reusables_discount": 0.08
+      }
+    },
+    {
+      "shop": {
+        "name": "Compost & Coffee",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "PLATINUM",
+        "community": {
+          "workshops_per_month": 4,
+          "donations": {
+            "local_causes": 4
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.23
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 10,
+            "price": 6.19
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.9
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 3.9,
+          "visit": {
+            "time": "22:22",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.4,
+          "visit": {
+            "time": "8:33",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.7,
+          "visit": {
+            "time": "22:05",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.5,
+          "visit": {
+            "time": "17:33",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.7,
+          "visit": {
+            "time": "21:48",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "umich_parent",
+          "visit": {
+            "time": "14:27",
+            "wait_minutes": 18
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:15",
+          "close": "20:30"
+        },
+        "composting": true,
+        "reusables_discount": 0.09
+      }
+    },
+    {
+      "shop": {
+        "name": "Compost & Coffee",
+        "neighborhood": "Plymouth Rd",
+        "ethical_rating": "GOLD",
+        "community": {
+          "workshops_per_month": 6,
+          "donations": {
+            "local_causes": 3
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 4,
+            "price": 3.0
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.85
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.28
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.77
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.99
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.92
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic",
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.48
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 4.4,
+          "visit": {
+            "time": "10:22",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.5,
+          "visit": {
+            "time": "14:27",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.2,
+          "visit": {
+            "time": "23:7",
+            "wait_minutes": 21
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.5,
+          "visit": {
+            "time": "22:41",
+            "wait_minutes": 3
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:15",
+          "close": "15:30"
+        },
+        "composting": true,
+        "reusables_discount": 0.12
+      }
+    },
+    {
+      "shop": {
+        "name": "Co-op Coffee Corner",
+        "neighborhood": "Plymouth Rd",
+        "ethical_rating": "BRONZE",
+        "community": {
+          "workshops_per_month": 2,
+          "donations": {
+            "local_causes": 4
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.01
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.83
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.65
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 4.9,
+          "visit": {
+            "time": "10:27",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.6,
+          "visit": {
+            "wait_minutes": 5
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.5,
+          "visit": {
+            "time": "14:0",
+            "wait_minutes": 15
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.1,
+          "visit": {
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.9,
+          "visit": {
+            "time": "17:55",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "enginenerd",
+          "visit": {
+            "time": "22:18"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:5",
+          "close": "18:30"
+        },
+        "composting": false,
+        "reusables_discount": 0.32
+      }
+    },
+    {
+      "shop": {
+        "name": "Local Loop Lattes Cooperative",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "GOLD",
+        "community": {
+          "workshops_per_month": 3,
+          "donations": {
+            "local_causes": 0
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.62
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.51
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 6.1
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.07
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "coffeegrad",
+          "rating": 4.6,
+          "visit": {
+            "time": "17:5",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 3.8,
+          "visit": {
+            "time": "14:55",
+            "wait_minutes": 5
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.6,
+          "visit": {}
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.0,
+          "visit": {
+            "time": "18:07"
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.3,
+          "visit": {
+            "time": "15:12"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:5",
+          "close": "19:5"
+        },
+        "composting": false,
+        "reusables_discount": 0.18
+      }
+    },
+    {
+      "shop": {
+        "name": "Co-op Coffee Corner",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 8,
+          "donations": {
+            "local_causes": 2
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.0
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.45
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.17
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.9,
+          "visit": {
+            "time": "10:12",
+            "wait_minutes": 0
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.1,
+          "visit": {
+            "time": "19:27",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 3.8,
+          "visit": {
+            "time": "6:12"
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 5.0,
+          "visit": {
+            "time": "11:33",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.0,
+          "visit": {
+            "time": "15:41"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:30"
+        },
+        "composting": false,
+        "reusables_discount": 0.45
+      }
+    },
+    {
+      "shop": {
+        "name": "Zero-Waste Zing Cooperative",
+        "neighborhood": "Old West Side",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 3,
+          "donations": {
+            "local_causes": 1
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.95
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 18,
+            "price": 5.53
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.35
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.71
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.84
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.83
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.7,
+          "visit": {
+            "time": "6:41"
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 5.0,
+          "visit": {
+            "time": "13:55",
+            "wait_minutes": 18
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.0,
+          "visit": {
+            "time": "19:12"
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.0,
+          "visit": {
+            "time": "15:03",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "umich_parent",
+          "visit": {
+            "time": "7:03"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "9:30",
+          "close": "19:15"
+        },
+        "composting": false,
+        "reusables_discount": 0.49
+      }
+    },
+    {
+      "shop": {
+        "name": "Local Loop Lattes Cooperative",
+        "neighborhood": "State Street",
+        "ethical_rating": "GOLD",
+        "community": {
+          "workshops_per_month": 7,
+          "donations": {
+            "local_causes": 5
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.07
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.44
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.0
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.65
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 4.7,
+          "visit": {
+            "time": "7:00",
+            "wait_minutes": 12
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.3,
+          "visit": {
+            "time": "22:27",
+            "wait_minutes": 26
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 3.3,
+          "visit": {
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.5,
+          "visit": {
+            "time": "19:5"
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.9,
+          "visit": {
+            "time": "11:55",
+            "wait_minutes": 27
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:15",
+          "close": "20:5"
+        },
+        "composting": false,
+        "reusables_discount": 0.33
+      }
+    },
+    {
+      "shop": {
+        "name": "Co-op Coffee Corner",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "BRONZE",
+        "community": {
+          "workshops_per_month": 1,
+          "donations": {
+            "local_causes": 1
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.01
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 6,
+            "price": 4.87
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.71
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.47
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.64
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 14,
+            "price": 4.66
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "rating": 3.2,
+          "visit": {
+            "time": "15:55",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.8,
+          "visit": {
+            "time": "8:55",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.2,
+          "visit": {
+            "time": "6:41",
+            "wait_minutes": 25
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.3,
+          "visit": {
+            "time": "17:27",
+            "wait_minutes": 8
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:15",
+          "close": "16:0"
+        },
+        "composting": false,
+        "reusables_discount": 0.33
+      }
+    },
+    {
+      "shop": {
+        "name": "The Refillable Mug Cooperative",
+        "neighborhood": "State Street",
+        "ethical_rating": "GOLD",
+        "community": {
+          "workshops_per_month": 7,
+          "donations": {
+            "local_causes": 5
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.91
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.55
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.03
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.03
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.83
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 4,
+            "price": 2.91
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 4.1,
+          "visit": {
+            "time": "22:22",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.2,
+          "visit": {
+            "time": "8:7",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.9,
+          "visit": {
+            "time": "12:33",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.2,
+          "visit": {
+            "time": "20:00",
+            "wait_minutes": 8
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:5",
+          "close": "16:30"
+        },
+        "composting": true,
+        "reusables_discount": 0.25
+      }
+    },
+    {
+      "shop": {
+        "name": "Compost & Coffee",
+        "neighborhood": "Old West Side",
+        "ethical_rating": "GOLD",
+        "community": {
+          "workshops_per_month": 8,
+          "donations": {
+            "local_causes": 2
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 6.53
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 12,
+            "price": 4.4
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 5.19
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.13
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 14,
+            "price": 6.43
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "rating": 3.6,
+          "visit": {
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.1,
+          "visit": {
+            "time": "13:0",
+            "wait_minutes": 11
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 3.8,
+          "visit": {
+            "time": "22:05",
+            "wait_minutes": 22
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 4.9,
+          "visit": {
+            "time": "22:00",
+            "wait_minutes": 5
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.8,
+          "visit": {
+            "time": "14:18",
+            "wait_minutes": 11
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:0",
+          "close": "18:15"
+        },
+        "composting": false,
+        "reusables_discount": 0.18
+      }
+    },
+    {
+      "shop": {
+        "name": "Co-op Coffee Corner",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 2,
+          "donations": {
+            "local_causes": 3
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.72
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.21
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.14
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.94
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.13
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 4.08
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.43
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic",
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 4.8,
+          "visit": {
+            "time": "17:33"
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.8,
+          "visit": {
+            "time": "21:18"
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:5",
+          "close": "21:0"
+        },
+        "composting": false,
+        "reusables_discount": 0.09
+      }
+    },
+    {
+      "shop": {
+        "name": "Local Loop Lattes",
+        "neighborhood": "Old West Side",
+        "ethical_rating": "BRONZE",
+        "community": {
+          "workshops_per_month": 6,
+          "donations": {
+            "local_causes": 0
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.29
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.93
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.35
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.34
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "bluebus_fan",
+          "rating": 4.5,
+          "visit": {
+            "time": "7:7",
+            "wait_minutes": 2
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.2,
+          "visit": {
+            "time": "18:27",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.6,
+          "visit": {
+            "time": "16:48"
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.4,
+          "visit": {
+            "time": "10:48",
+            "wait_minutes": 16
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:0",
+          "close": "17:0"
+        },
+        "composting": false,
+        "reusables_discount": 0.48
+      }
+    },
+    {
+      "shop": {
+        "name": "Fair Trade Fortress Cooperative",
+        "neighborhood": "South U",
+        "ethical_rating": "BRONZE",
+        "community": {
+          "workshops_per_month": 5,
+          "donations": {
+            "local_causes": 0
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.72
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.64
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic",
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.49
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.17
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.86
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 3.6,
+          "visit": {
+            "time": "23:0",
+            "wait_minutes": 13
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "visit": {
+            "time": "9:22",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.7,
+          "visit": {
+            "time": "13:05",
+            "wait_minutes": 8
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.5,
+          "visit": {
+            "time": "6:18",
+            "wait_minutes": 19
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 3.6,
+          "visit": {
+            "time": "8:00",
+            "wait_minutes": 26
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:30",
+          "close": "15:30"
+        },
+        "composting": false,
+        "reusables_discount": 0.3
+      }
+    },
+    {
+      "shop": {
+        "name": "Compost & Coffee",
+        "neighborhood": "Plymouth Rd",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 4,
+          "donations": {
+            "local_causes": 2
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 5.89
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 4.59
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.98
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 3.6,
+          "visit": {
+            "time": "7:27",
+            "wait_minutes": 12
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 3.4,
+          "visit": {
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.2,
+          "visit": {
+            "time": "9:41",
+            "wait_minutes": 1
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 3.3,
+          "visit": {
+            "time": "12:41",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.5,
+          "visit": {
+            "time": "10:03",
+            "wait_minutes": 3
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:30",
+          "close": "16:15"
+        },
+        "composting": true,
+        "reusables_discount": 0.11
+      }
+    },
+    {
+      "shop": {
+        "name": "The Refillable Mug",
+        "neighborhood": "South U",
+        "ethical_rating": "BRONZE",
+        "community": {
+          "workshops_per_month": 4,
+          "donations": {
+            "local_causes": 2
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 5.17
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.84
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 14,
+            "price": 4.79
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 4.93
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.03
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "coffeegrad",
+          "visit": {
+            "time": "15:27"
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.3,
+          "visit": {
+            "time": "17:12"
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.9,
+          "visit": {
+            "time": "19:05"
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.2,
+          "visit": {
+            "time": "7:48",
+            "wait_minutes": 4
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 3.9,
+          "visit": {
+            "time": "10:03",
+            "wait_minutes": 22
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:5",
+          "close": "16:5"
+        },
+        "composting": true,
+        "reusables_discount": 0.26
+      }
+    },
+    {
+      "shop": {
+        "name": "Local Loop Lattes",
+        "neighborhood": "Plymouth Rd",
+        "ethical_rating": "GOLD",
+        "community": {
+          "workshops_per_month": 1,
+          "donations": {
+            "local_causes": 1
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.4
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 5.31
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 16,
+            "price": 4.87
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic",
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "enginenerd",
+          "rating": 3.3,
+          "visit": {
+            "time": "14:05",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.1,
+          "visit": {
+            "time": "6:03",
+            "wait_minutes": 6
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.9,
+          "visit": {
+            "time": "8:7",
+            "wait_minutes": 0
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "10:5",
+          "close": "21:5"
+        },
+        "composting": true,
+        "reusables_discount": 0.14
+      }
+    },
+    {
+      "shop": {
+        "name": "Fair Trade Fortress",
+        "neighborhood": "South U",
+        "community": {
+          "workshops_per_month": 1,
+          "donations": {
+            "local_causes": 3
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 2.78
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 3.8
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 6.13
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 14,
+            "price": 4.46
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.77
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.43
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "rating": 4.3,
+          "visit": {
+            "time": "22:27",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.7,
+          "visit": {
+            "time": "16:22",
+            "wait_minutes": 19
+          }
+        },
+        {
+          "user": "sleepdeprived",
+          "rating": 4.7,
+          "visit": {
+            "time": "16:00"
+          }
+        },
+        {
+          "user": "ta_in_training",
+          "rating": 4.1,
+          "visit": {
+            "time": "9:0",
+            "wait_minutes": 28
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:30",
+          "close": "17:5"
+        },
+        "composting": false,
+        "reusables_discount": 0.42
+      }
+    },
+    {
+      "shop": {
+        "name": "Fair Trade Fortress Cooperative",
+        "neighborhood": "North Campus",
+        "ethical_rating": "PLATINUM",
+        "community": {
+          "workshops_per_month": 1,
+          "donations": {
+            "local_causes": 3
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.53
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.12
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.44
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.35
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 5.14
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.08
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 4,
+            "price": 2.62
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.6,
+          "visit": {
+            "time": "20:12",
+            "wait_minutes": 7
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.7,
+          "visit": {
+            "time": "9:48",
+            "wait_minutes": 4
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:15",
+          "close": "18:5"
+        },
+        "composting": true,
+        "reusables_discount": 0.19
+      }
+    },
+    {
+      "shop": {
+        "name": "Co-op Coffee Corner",
+        "neighborhood": "Plymouth Rd",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 4,
+          "donations": {
+            "local_causes": 2
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.5
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Mocha",
+            "size_oz": 12,
+            "price": 5.04
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 4.9
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.66
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 4.23
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "coffeegrad",
+          "visit": {
+            "time": "15:5",
+            "wait_minutes": 23
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.1,
+          "visit": {
+            "time": "15:12",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.6,
+          "visit": {
+            "time": "8:3",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 4.4,
+          "visit": {
+            "time": "14:41",
+            "wait_minutes": 27
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:30",
+          "close": "20:15"
+        },
+        "composting": false,
+        "reusables_discount": 0.45
+      }
+    },
+    {
+      "shop": {
+        "name": "Zero-Waste Zing Cooperative",
+        "neighborhood": "Downtown",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 0,
+          "donations": {
+            "local_causes": 1
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Espresso",
+            "size_oz": 2,
+            "price": 3.26
+          }
+        },
+        {
+          "drink": {
+            "name": "Chai",
+            "size_oz": 12,
+            "price": 5.02
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.73
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Organic",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "diag_walker",
+          "rating": 4.5,
+          "visit": {
+            "time": "20:41",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 4.7,
+          "visit": {
+            "time": "9:22",
+            "wait_minutes": 28
+          }
+        },
+        {
+          "user": "enginenerd",
+          "rating": 4.2,
+          "visit": {
+            "time": "17:00",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 4.9,
+          "visit": {
+            "time": "6:05",
+            "wait_minutes": 17
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.2,
+          "visit": {
+            "time": "22:0"
+          }
+        },
+        {
+          "user": "coffeegrad",
+          "rating": 4.9,
+          "visit": {
+            "time": "16:05",
+            "wait_minutes": 12
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "6:5",
+          "close": "15:5"
+        },
+        "composting": true,
+        "reusables_discount": 0.44
+      }
+    },
+    {
+      "shop": {
+        "name": "Fair Trade Fortress",
+        "neighborhood": "Burns Park",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 0,
+          "donations": {
+            "local_causes": 4
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.53
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              },
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Latte",
+            "size_oz": 12,
+            "price": 4.69
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "BirdFriendly"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 10,
+            "price": 4.99
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "FairTrade",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              },
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 4.25
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "sleepdeprived",
+          "rating": 3.8,
+          "visit": {
+            "time": "7:18",
+            "wait_minutes": 16
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.6,
+          "visit": {
+            "time": "15:12",
+            "wait_minutes": 24
+          }
+        },
+        {
+          "user": "bluebus_fan",
+          "rating": 4.9,
+          "visit": {
+            "time": "19:22"
+          }
+        },
+        {
+          "user": "library_lurker",
+          "rating": 3.6,
+          "visit": {
+            "time": "23:48",
+            "wait_minutes": 15
+          }
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 3.5,
+          "visit": {
+            "time": "17:18",
+            "wait_minutes": 5
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "8:30",
+          "close": "15:0"
+        },
+        "composting": false,
+        "reusables_discount": 0.12
+      }
+    },
+    {
+      "shop": {
+        "name": "Zero-Waste Zing",
+        "neighborhood": "South U",
+        "community": {
+          "workshops_per_month": 4,
+          "donations": {
+            "local_causes": 4
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Cold Brew",
+            "size_oz": 18,
+            "price": 5.25
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Tana Valley",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.05
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Rainforest",
+                  "BirdFriendly",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 10,
+            "price": 5.0
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Cappuccino",
+            "size_oz": 8,
+            "price": 5.16
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 6.27
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "Organic",
+                  "BirdFriendly",
+                  "FairTrade"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "kerrytown_kid",
+          "rating": 3.4,
+          "visit": {
+            "time": "22:12",
+            "wait_minutes": 21
+          }
+        },
+        {
+          "user": "umich_parent",
+          "visit": {
+            "time": "8:18"
+          }
+        },
+        {
+          "user": "diag_walker",
+          "rating": 3.8,
+          "visit": {
+            "time": "12:48",
+            "wait_minutes": 19
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:30",
+          "close": "20:30"
+        },
+        "composting": true,
+        "reusables_discount": 0.47
+      }
+    },
+    {
+      "shop": {
+        "name": "Fair Trade Fortress",
+        "neighborhood": "South U",
+        "ethical_rating": "SILVER",
+        "community": {
+          "workshops_per_month": 3,
+          "donations": {
+            "local_causes": 1
+          }
+        }
+      },
+      "menu": [
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.8
+          },
+          "sourcing": {
+            "co_op": false,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "BirdFriendly",
+                  "Organic",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Matcha",
+            "size_oz": 12,
+            "price": 5.02
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Organic",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Pour Over",
+            "size_oz": 10,
+            "price": 3.83
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "FairTrade",
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.62
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Blue Lake",
+                "certs": [
+                  "Organic"
+                ]
+              },
+              {
+                "name": "San Marcos",
+                "certs": [
+                  "Rainforest",
+                  "Organic"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "drink": {
+            "name": "Americano",
+            "size_oz": 12,
+            "price": 3.91
+          },
+          "sourcing": {
+            "co_op": true,
+            "farms": [
+              {
+                "name": "Kivu Ridge",
+                "certs": [
+                  "BirdFriendly",
+                  "Rainforest"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "reviews": [
+        {
+          "user": "ta_in_training",
+          "rating": 3.8,
+          "visit": {
+            "time": "19:07",
+            "wait_minutes": 14
+          }
+        },
+        {
+          "user": "kerrytown_kid",
+          "rating": 4.8,
+          "visit": {}
+        },
+        {
+          "user": "mdenstudent",
+          "rating": 4.2,
+          "visit": {
+            "time": "11:22",
+            "wait_minutes": 27
+          }
+        },
+        {
+          "user": "umich_parent",
+          "rating": 3.8,
+          "visit": {
+            "time": "10:55"
+          }
+        },
+        {
+          "user": "winter_commuter",
+          "rating": 3.6,
+          "visit": {
+            "time": "6:22",
+            "wait_minutes": 9
+          }
+        }
+      ],
+      "operations": {
+        "hours": {
+          "open": "7:30",
+          "close": "15:0"
+        },
+        "composting": true,
+        "reusables_discount": 0.27
+      }
+    }
+  ]
+}
