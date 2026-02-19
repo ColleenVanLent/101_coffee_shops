@@ -115,7 +115,7 @@
             "time": "11:15 AM",
             "wait_minutes": 8
           },
-          "rating": 3.9
+          "rating": 2.7
         }
       ],
       "ops": {
@@ -1361,7 +1361,7 @@
             "time": "8:45",
             "wait_minutes": 1
           },
-          "rating": 5.0
+          "rating": 4.9
         },
         {
           "user": "codespaces_hero",
