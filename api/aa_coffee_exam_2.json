@@ -8,7 +8,7 @@
           "drink": {
             "title": "Syllabus Steamer",
             "oz": 2,
-            "cost": "12.06"
+            "price": "12.06"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -26,7 +26,7 @@
           "drink": {
             "title": "Syllabus Steamer",
             "oz": 2,
-            "cost": "19.68"
+            "price": "19.68"
           },
           "boost": {
             "caffeine_mg": 220,
@@ -169,7 +169,7 @@
           "drink": {
             "title": "NFT Nitro",
             "oz": 8,
-            "cost": "19.95"
+            "price": "19.95"
           },
           "boost": {
             "caffeine_mg": 300,
@@ -279,7 +279,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 3,
-            "cost": "10.61"
+            "price": "10.61"
           },
           "boost": {
             "caffeine_mg": 300,
@@ -301,7 +301,7 @@
           "drink": {
             "title": "Rubric Ristretto",
             "oz": 6,
-            "cost": "9.92"
+            "price": "9.92"
           },
           "boost": {
             "caffeine_mg": 160,
@@ -345,7 +345,7 @@
           "drink": {
             "title": "Rubric Ristretto",
             "oz": 16,
-            "cost": "5.73"
+            "price": "5.73"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -465,7 +465,7 @@
           "drink": {
             "title": "Office Hours Oat Latte",
             "oz": 6,
-            "cost": "21.27"
+            "price": "21.27"
           }
         },
         {
@@ -490,7 +490,7 @@
           "drink": {
             "title": "Existential Espresso",
             "oz": 12,
-            "cost": "22.88"
+            "price": "22.88"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -501,7 +501,7 @@
           "drink": {
             "title": "Syllabus Steamer",
             "oz": 4,
-            "cost": "21.99"
+            "price": "21.99"
           },
           "boost": {
             "caffeine_mg": 300,
@@ -587,14 +587,14 @@
           "drink": {
             "title": "Existential Espresso",
             "oz": 4,
-            "cost": "15.42"
+            "price": "15.42"
           }
         },
         {
           "drink": {
             "title": "Existential Espresso",
             "oz": 10,
-            "cost": "9.66"
+            "price": "9.66"
           },
           "boost": {
             "caffeine_mg": 160,
@@ -691,7 +691,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 6,
-            "cost": "14.53"
+            "price": "14.53"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -702,14 +702,14 @@
           "drink": {
             "title": "Existential Espresso",
             "oz": 14,
-            "cost": "20.30"
+            "price": "20.30"
           }
         },
         {
           "drink": {
             "title": "NFT Nitro",
             "oz": 6,
-            "cost": "9.31"
+            "price": "9.31"
           }
         },
         {
@@ -726,7 +726,7 @@
           "drink": {
             "title": "Office Hours Oat Latte",
             "oz": 16,
-            "cost": "25.14"
+            "price": "25.14"
           },
           "boost": {
             "caffeine_mg": 300,
@@ -737,7 +737,7 @@
           "drink": {
             "title": "NFT Nitro",
             "oz": 2,
-            "cost": "20.38"
+            "price": "20.38"
           },
           "boost": {
             "caffeine_mg": 220,
@@ -882,7 +882,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 12,
-            "cost": "10.82"
+            "price": "10.82"
           }
         },
         {
@@ -978,7 +978,7 @@
           "drink": {
             "title": "NFT Nitro",
             "oz": 16,
-            "cost": "16.44"
+            "price": "16.44"
           }
         },
         {
@@ -1033,7 +1033,7 @@
           "drink": {
             "title": "Office Hours Oat Latte",
             "oz": 10,
-            "cost": "9.91"
+            "price": "9.91"
           },
           "boost": {
             "caffeine_mg": 420,
@@ -1212,7 +1212,7 @@
           "drink": {
             "title": "Existential Espresso",
             "oz": 3,
-            "cost": "7.75"
+            "price": "7.75"
           },
           "boost": {
             "caffeine_mg": 180,
@@ -1223,14 +1223,14 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 10,
-            "cost": "13.22"
+            "price": "13.22"
           }
         },
         {
           "drink": {
             "title": "Rubric Ristretto",
             "oz": 4,
-            "cost": "12.79"
+            "price": "12.79"
           },
           "boost": {
             "caffeine_mg": 160,
@@ -1259,7 +1259,7 @@
           "drink": {
             "title": "Rubric Ristretto",
             "oz": 8,
-            "cost": "11.18"
+            "price": "11.18"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -1270,14 +1270,14 @@
           "drink": {
             "title": "Syllabus Steamer",
             "oz": 14,
-            "cost": "6.33"
+            "price": "6.33"
           }
         },
         {
           "drink": {
             "title": "Syllabus Steamer",
             "oz": 10,
-            "cost": "13.05"
+            "price": "13.05"
           },
           "boost": {
             "caffeine_mg": 160,
@@ -1361,7 +1361,7 @@
           "drink": {
             "title": "Syllabus Steamer",
             "oz": 16,
-            "cost": "17.23"
+            "price": "17.23"
           },
           "boost": {
             "caffeine_mg": 160,
@@ -1383,7 +1383,7 @@
           "drink": {
             "title": "Rubric Ristretto",
             "oz": 16,
-            "cost": "24.48"
+            "price": "24.48"
           }
         },
         {
@@ -1585,7 +1585,7 @@
           "drink": {
             "title": "Office Hours Oat Latte",
             "oz": 10,
-            "cost": "5.14"
+            "price": "5.14"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -1703,7 +1703,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 12,
-            "cost": "6.95"
+            "price": "6.95"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -1824,7 +1824,7 @@
           "drink": {
             "title": "Rubric Ristretto",
             "oz": 12,
-            "cost": "19.03"
+            "price": "19.03"
           },
           "boost": {
             "caffeine_mg": 220,
@@ -1904,7 +1904,7 @@
           "drink": {
             "title": "Syllabus Steamer",
             "oz": 6,
-            "cost": "26.24"
+            "price": "26.24"
           },
           "boost": {
             "caffeine_mg": 180,
@@ -2017,7 +2017,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 16,
-            "cost": "25.58"
+            "price": "25.58"
           },
           "boost": {
             "caffeine_mg": 420,
@@ -2053,7 +2053,7 @@
           "drink": {
             "title": "Office Hours Oat Latte",
             "oz": 2,
-            "cost": "19.90"
+            "price": "19.90"
           }
         }
       ],
@@ -2154,7 +2154,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 2,
-            "cost": "11.09"
+            "price": "11.09"
           }
         },
         {
@@ -2167,7 +2167,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 14,
-            "cost": "4.77"
+            "price": "4.77"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -2248,7 +2248,7 @@
           "drink": {
             "title": "Midterm Macchiato",
             "oz": 8,
-            "cost": "16.23"
+            "price": "16.23"
           }
         },
         {
@@ -2273,7 +2273,7 @@
           "drink": {
             "title": "Quantum Cortado",
             "oz": 14,
-            "cost": "10.32"
+            "price": "10.32"
           },
           "boost": {
             "caffeine_mg": 160,
@@ -2295,14 +2295,14 @@
           "drink": {
             "title": "NFT Nitro",
             "oz": 2,
-            "cost": "21.32"
+            "price": "21.32"
           }
         },
         {
           "drink": {
             "title": "Quantum Cortado",
             "oz": 2,
-            "cost": "23.07"
+            "price": "23.07"
           },
           "boost": {
             "caffeine_mg": 180,
@@ -2377,7 +2377,7 @@
           "drink": {
             "title": "Quantum Cortado",
             "oz": 10,
-            "cost": "20.04"
+            "price": "20.04"
           },
           "boost": {
             "caffeine_mg": 350,
@@ -2475,7 +2475,7 @@
           "drink": {
             "title": "Office Hours Oat Latte",
             "oz": 3,
-            "cost": "26.20"
+            "price": "26.20"
           },
           "boost": {
             "caffeine_mg": 220,
@@ -2486,7 +2486,7 @@
           "drink": {
             "title": "Quantum Cortado",
             "oz": 6,
-            "cost": "22.26"
+            "price": "22.26"
           },
           "boost": {
             "caffeine_mg": 160,
@@ -2521,7 +2521,7 @@
           "drink": {
             "title": "Quantum Cortado",
             "oz": 3,
-            "cost": "14.54"
+            "price": "14.54"
           },
           "boost": {
             "caffeine_mg": 220,
@@ -2601,7 +2601,7 @@
           "drink": {
             "title": "Office Hours Oat Latte",
             "oz": 12,
-            "cost": "10.96"
+            "price": "10.96"
           },
           "boost": {
             "caffeine_mg": 160,
